@@ -7,6 +7,7 @@ import { SafeAreaProvider, useSafeAreaInsets } from "react-native-safe-area-cont
 import ClientesScreen from "./telas/ClientesScreen";
 import VeiculosScreen from "./telas/VeiculosScreen";
 import OrdensServicoScreen from "./telas/OrdensServicoScreen";
+import CaixaScreen from "./telas/CaixaScreen";
 
 type Tela = "clientes" | "veiculos" | "ordens";
 
