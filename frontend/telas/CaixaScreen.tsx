@@ -131,7 +131,7 @@ export default function CaixaScreen() {
                     <View className="mt-3 bg-white">
                         <View className="flex-row items-center border-b border-gray-200 px-3 py-3">
                             <View className="mr-3 h-11 items-center justify-center rounded-full bg-blue-100">
-                                <Text className></Text>
+                                <Text className = "color-zinc-600"></Text>
                             </View>
                         </View>
                     </View>
